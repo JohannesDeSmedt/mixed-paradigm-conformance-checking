@@ -1,6 +1,6 @@
 # Mixed-paradigm Conformance Checking
 
-This page contains extra figures for experiments to test the mixed-paradigm conformance checking algorithm implemented in (ProM)[http://www.promtools.org/doku.php] by Boudewijn van Dongen, Johannes De Smedt, Claudio Di Ciccio, and Jan Mendling and is available [here](https://svn.win.tue.nl/repos/prom/Packages/MixedParadigm/).
+This page contains extra figures for experiments to test the mixed-paradigm conformance checking algorithm implemented in [ProM](http://www.promtools.org/doku.php) by Boudewijn van Dongen, Johannes De Smedt, Claudio Di Ciccio, and Jan Mendling and is available [here](https://svn.win.tue.nl/repos/prom/Packages/MixedParadigm/).
 
 The results for two extra event logs are reported here:
 * [BPI 2017 challenge - offers log](https://data.4tu.nl/repository/uuid:7e326e7e-8b93-4701-8860-71213edf0fbe)
